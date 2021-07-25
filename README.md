@@ -9,5 +9,6 @@ The following is an implementation of adjoint-based optimization, specifically o
 
 
 ## Libraries/Packages Required
-C++: [cmath](https://www.cplusplus.com/reference/cmath/)\n
+C++: [cmath](https://www.cplusplus.com/reference/cmath/)
+
 Python: [matplotlib](https://matplotlib.org/)
