@@ -1,6 +1,6 @@
 # Description
 
-The following is an implementation of adjoint-based optimization, specifically of a flexible plate for MRAG-I2D. Special thanks to my mentor David Gutierrez and supervisor Wim van Rees for their indispensable guidance during my time as a UROP.
+The following is an implementation of Euler coordinates and Lagrangian coordinates for the deformation of a flexible plate for MRAG-I2D. Special thanks to my mentor David Gutierrez and supervisor Wim van Rees for their indispensable guidance during my time as a UROP.
 
 
 ## References
